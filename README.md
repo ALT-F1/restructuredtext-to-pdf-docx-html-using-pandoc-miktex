@@ -5,10 +5,10 @@ Run `convert_rst_to_docx.bat "<filename.rst>" `
 
 Look into the `examples`directory to find the expected generated files
 
-* [X] ~~~generate pdf using MiKTeX2.9 using the default template~~~
-* [X] ~~~generate docx using a template available on the `.pandoc` directory~~~
-* [X] ~~~generate an html~~~
-* [X] ~~~copy images in the `img` directory in the `output`directory to display images in the html page~~~
+* [X] ~~generate pdf using MiKTeX2.9 using the default template~~
+* [X] ~~generate docx using a template available on the `.pandoc` directory~~
+* [X] ~~generate an html~~
+* [X] ~~copy images in the `img` directory in the `output`directory to display images in the html page~~
 
 ## Prerequisite
 
