@@ -1,0 +1,18 @@
+{
+    "name": "convertrsttodocxhtmlpdf",
+    "description": "Generate a pdf, docx and html from a reStructured Text (rst) by using Pandoc, MiKTeX and Windows Batch Scripting",
+    "authors": "ALT-F1 SPRL",
+    "version": "0.0.0",
+    "main": "${workspaceFolder}/convert_rst_to_docx.bat",
+    "scripts": {
+        "release": "standard-version",
+        "patch": "npm run release -- --release-as patch",
+        "minor": "npm run release -- --release-as minor",
+        "push": "git push --follow-tags origin master"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ALT-F1/restructuredtext-to-pdf-docx-html-using-pandoc-miktex.git"
+    },
+    "license": "SEE LICENSE IN LICENSE"
+}
