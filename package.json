@@ -2,7 +2,7 @@
     "name": "convertrsttodocxhtmlpdf",
     "description": "Generate a pdf, docx and html from a reStructured Text (rst) by using Pandoc, MiKTeX and Windows Batch Scripting",
     "authors": "ALT-F1 SPRL",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "${workspaceFolder}/convert_rst_to_docx.bat",
     "scripts": {
         "release": "standard-version",
